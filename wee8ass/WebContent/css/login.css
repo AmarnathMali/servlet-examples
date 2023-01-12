@@ -1,0 +1,12 @@
+body.login {
+    background-color: #c0c0c0;
+}
+
+.bx {
+    box-shadow: 2px 2px 18px rgba(0, 0, 0, 0.4);
+}
+
+.card-border {
+    box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.4);
+    border: 2px;
+}
